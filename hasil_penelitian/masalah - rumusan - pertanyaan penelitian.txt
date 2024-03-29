@@ -1,7 +1,6 @@
 Masalah Penelitian
-1. Hasil wawancara terhadap pentani kopra bahwa klasifikasi kopra masih mengunakan naluri dari petani kopra
-2. Hasil studi literatur pemilihan feature untuk klasifikasi kopra menggunakan beberapa feature saja
-3. Hasil studi literatur untuk klasifikasi kopra belum menggunakan konsep ensembel learning
+1. Hasil studi literatur pemilihan feature untuk klasifikasi kopra menggunakan beberapa feature saja
+2. Hasil studi literatur untuk klasifikasi kopra belum menggunakan konsep ensembel learning
 
 Rumusan masalah
 1. Feature ekstraction tidak diperhaikan maka akan mempengaruhi akurasi model.
@@ -19,17 +18,18 @@ Pertanyaan penelitian.
 - Jika sebaran feature membentik pola poison makan algo knn yg paling baik dengan akurasi x%
 - Jika tidak memperhatikan sebaran namun memperhatikan kemurnian data, kemunculan data maka algorita C45 dan gnb yang paling bagus, dengan peningkatan performa sebar x%.
 
-6. Apa saja metode ensembel yang dapat digunakan untuk klasifikasi kopra? jawab, voting, stacking dan bagging.
+6. Apa saja metode ensembel yang dapat digunakan untuk klasifikasi kopra? jawab, voting, stacking, bagging, adabost
 
 7. Bagaimana cara kerja tiga metode ensembel sehingga bisa meningkatkan akurasi
 - Jika menggunakan voting maka xyz
 - Jika menggabungkan stacking maka xyz
 - Jika menggunakan bagging maka xyz
+- Jika menggunakan adaboost maka xyz
 
 8. Apakah terdapat perbedaan peningkatan akurasi dari ketiga metode ensembel tersebut?
 
 9. Bagaimana membuat model terbaik untuk membuat model prediksi kopra? 
 - Jika feature ekstraction nya adalah gabungan dari warna, bentuk, terbaik
-- Jika metode supervised nya adalah
-- Jika metode ensambel nya adalah
-- Sehingga peningkatan performa model terbaik sebesar x% jika dibandingkan dengan rata akurasi mode dan model terburuk.
+- Jika metode supervised nya adalah x y z
+- Jika metode ensambel nya adalah x y z
+- Sehingga peningkatan performa model terbaik sebesar x% jika dibandingkan dengan rata akurasi model
